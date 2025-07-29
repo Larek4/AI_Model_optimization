@@ -1,0 +1,24 @@
+# Python virtual environment
+venv/
+.venv/
+
+# PyTorch artifacts
+*.pt
+*.pth
+intel_model.pt
+
+# Logs and profiler traces
+logs/
+tensorboard/
+others/
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Any other temporary or generated files
+__pycache__/
+*.pyc
