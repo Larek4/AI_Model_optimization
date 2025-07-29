@@ -16,7 +16,7 @@
 7.  [Results Summary](https://www.google.com/search?q=%23results-summary)
 8.  [Key Learnings and Challenges](https://www.google.com/search?q=%23key-learnings-and-challenges)
 9.  [Credits](https://www.google.com/search?q=%23credits)
-10. [License](https://www.google.com/search?q=%23license)
+
 
 ## 1\. Introduction
 
